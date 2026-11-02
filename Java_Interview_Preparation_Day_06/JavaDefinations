@@ -7,7 +7,7 @@
 	->To create static vaariables,static methods and static blocks "static" keyword is used with them 
 	
 	->static variables,static methods and static blocks are stored in method area
-	
+	 
 	->The complete program execution will happens in the following sequence 
 		i)JVM is the process that runs on the Operating system which manages different memory areas like 
 		method area,stack area and heap area
