@@ -4,7 +4,7 @@
 android applictions and many more things,java is widely used in software development.
 
 ->Java was introduced by sun-micro systems in the year 1995 USA, 
-but in the year 2010 java was owned by oracle corporation.
+but in the year 2010 java was owned by oracle corporation. 
 
 ->Java was originally developed by james gosling and team,intially the name of java is oak later it was renamed to java.
 
